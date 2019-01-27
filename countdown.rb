@@ -28,7 +28,7 @@ def countdown_with_sleep(number)
   
   number -= 1
   
-  sleep()
+  sleep(1)
   
   end
 
